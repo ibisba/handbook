@@ -7,15 +7,18 @@ subitems:
   - title: IBISBA Management
     output: web, pdf
     subitems:
-      - title: Business Process Transfer
-        url: /business_process_transfer.html
+      - title: Internal Managment Process
+        url: /internal_management_process.html
         output: web, pdf
-      - title: Public Private Policies
-        url: /public_private_policies.html
+      - title: Stakeholder Involvement and Relations
+        url: /stakeholder_involvement_relations.html
         output: web, pdf
-      - title: Licensing Policies
-        url: /licensing_policies.html
+      - title: Tariff, IPR and Partnership
+        url: /tariff_ipr_partnership.html
         output: web, pdf
+      - title: Communication Assets
+        url: /communication_assets.html
+        output: web, pdf      
   - title: How to Apply
     output: web, pdf
     subitems:
