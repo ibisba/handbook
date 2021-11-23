@@ -5,6 +5,6 @@ tags: [management]
 last_updated: November 23, 2021
 # summary: ""
 sidebar: mydoc_sidebar
-permalink: business_process_transfer.html
+permalink: internal_management_process.html
 folder: ibisba_management
 ---
