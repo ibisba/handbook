@@ -1,8 +1,8 @@
 ---
-title: "Business Process Transfer"
+title: "Internal Management Process"
 tags: [management]
 # keywords: release notes, announcements, what's new, new features
-last_updated: September 24, 2020
+last_updated: November 23, 2021
 # summary: ""
 sidebar: mydoc_sidebar
 permalink: business_process_transfer.html
