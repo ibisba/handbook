@@ -30,6 +30,6 @@ Service modularization consists of:
 
 Beyond this first level of modularization, all modules can be described by a series of different grain-size workflows, each layer more detailed than the last, all the way down to lab protocols. 
 
-The general guidelines available [here](https://doi.org/10.34701/IBISBA.1.FILETEMPLATE.2.1) are instructions for how to select the core modules, choose the boundaries, and identify the inputs and outputs. The guidelines have been written for the specific case of modularizing the service offering of a single facility. However, the guidelines can also be applied to other service offerings.
+The general guidelines available [here](https://hub.ibisba.eu/documents/40?version=1) are instructions for how to select the core modules, choose the boundaries, and identify the inputs and outputs. The guidelines have been written for the specific case of modularizing the service offering of a single facility. However, the guidelines can also be applied to other service offerings.
 
 Presently, the service modularization guidelines are available only to IBISBA 1.0 consortium members under the access provisions specified in the IBISBA 1.0 Consortium Agreement.
