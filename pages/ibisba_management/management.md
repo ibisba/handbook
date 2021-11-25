@@ -13,7 +13,7 @@ contributors: ["Luke Lauprete, Lise Vedel"]
 
 ### 1. Who is this section meant for?
  
-This section is meant for IBISBA partners (private) to.  
+This section is meant for the internal use of IBISBA partners and user community.  
 
 ### 2. How will this section help the reader?
 
