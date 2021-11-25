@@ -7,6 +7,7 @@ last_updated:
 sidebar: mydoc_sidebar
 permalink: service_mod.html
 folder: standardisation
+maintainer: "Munazah Andrabi"
 contributors: ["Peter Blomberg"]
 ---
 
@@ -31,4 +32,4 @@ Beyond this first level of modularization, all modules can be described by a ser
 
 The general guidelines available [here](https://doi.org/10.34701/IBISBA.1.FILETEMPLATE.2.1) are instructions for how to select the core modules, choose the boundaries, and identify the inputs and outputs. The guidelines have been written for the specific case of modularizing the service offering of a single facility. However, the guidelines can also be applied to other service offerings.
 
-Presently, the service modularization guidelines are available only to IBISBA 1.0 consortium members under the access provisions specified in the IBISBA 1.0 Consortium Agreement
+Presently, the service modularization guidelines are available only to IBISBA 1.0 consortium members under the access provisions specified in the IBISBA 1.0 Consortium Agreement.
