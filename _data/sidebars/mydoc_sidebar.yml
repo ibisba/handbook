@@ -19,7 +19,7 @@ subitems:
       - title: Communication Assets
         url: /communication_assets.html
         output: web, pdf      
-  - title: How to Apply
+  - title: Service Access Management
     output: web, pdf
     subitems:
       - title: Transnational Access
