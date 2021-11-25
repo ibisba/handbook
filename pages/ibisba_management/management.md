@@ -11,7 +11,7 @@ maintainer: "Munazah Andrabi"
 contributors: ["Luke Lauprete, Lise Vedel"]
 ---
 
-### 1. Who is this section primarily meant for?  
+### 1. Who is this section meant for?
  
 This section is meant for IBISBA partners (private) to.  
 
@@ -19,7 +19,7 @@ This section is meant for IBISBA partners (private) to.
 
 This section describes essential management procedures and governance bodies.  
 
-### 3. What is the learning outcome/goal of a section)?  
+### 3. What is the learning outcome of this section?  
  
 Partners obtain an at a glance overview of vital management processes and the governance bodies that are currently operational.  
 
