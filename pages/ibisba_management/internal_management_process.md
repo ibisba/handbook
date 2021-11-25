@@ -25,7 +25,7 @@ The current IBISBA management processes and governance bodies are designed to su
 
 * The **Steering Committee** is a special stakeholder advisory group that brings together representatives of participant countries. Generally, members of the steering committee belong to ministerial-level authorities.  
 
-* **IBISBA Coordination Team (ICT)** is composed of EU project managers (presently two), a network manager, a communications manager, the acting IBISBA Director (who is presently coordinator of two H2020 IBISBA projects). The ICT is a highly operational body that deals with the smooth running of IBISBA. Key topics for the ICT relate to internal communication, network management and general affairs.  
+* The **IBISBA Coordination Team (ICT)** is composed of EU project managers (presently two), a network manager, a communications manager and the acting IBISBA Director (who is presently the coordinator of two H2020 IBISBA projects). The ICT is a highly operational body that deals with the smooth running of IBISBA. Key topics for the ICT relate to internal communication, network management and general affairs.  
 
 ### Meetings
 
