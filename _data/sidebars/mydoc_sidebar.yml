@@ -5,6 +5,7 @@ product: IBISBA Handbook
 version:
 subitems:
   - title: IBISBA Management
+    url: /management.html
     output: web, pdf
     subitems:
       - title: Internal Managment Process
