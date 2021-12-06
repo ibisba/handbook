@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder Involvement and Relations"
+title: "Getting involved with IBISBA"
 tags: [management]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
