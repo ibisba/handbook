@@ -27,28 +27,27 @@ subitems:
     url: /access.html
     output: web, pdf
     subitems:
-          - title: Eligibility Criteria
-            url: /eligibility_criteria.html
-            output: web, pdf
-          - title: Platform & Offer
-            url: /platform_and_offer.html
-            output: web, pdf
-          - title: Ethics Self-Assessment Checklist
-            url: /ethics.html
-            output: web, pdf      
-          - title: TNA Funding
-            url: /funding.html
-            output: web, pdf
-          - title: Publication & Acknowledgement
-            url: /publication_and_acknowledgement.html
-            output: web, pdf
-          - title: Post Access Requirements
-            url: /postaccess_requirements.html
-            output: web, pdf
-          - title: TNAs and IBISBAHub
-            url: /tnas_hub.html
-            output: web, pdf
-
+      - title: Eligibility Criteria
+        url: /eligibility_criteria.html
+        output: web, pdf
+      - title: Platform & Offer
+        url: /platform_and_offer.html
+        output: web, pdf
+      - title: Ethics Self-Assessment Checklist
+        url: /ethics.html
+        output: web, pdf      
+      - title: TNA Funding
+        url: /funding.html
+        output: web, pdf
+      - title: Publication & Acknowledgement
+        url: /publication_and_acknowledgement.html
+        output: web, pdf
+      - title: Post Access Requirements
+        url: /postaccess_requirements.html
+        output: web, pdf
+      - title: TNAs and IBISBAHub
+        url: /tnas_hub.html
+        output: web, pdf
       - title: One Stop Shop
         url: /one_stop_shop.html
         output: web, pdf
