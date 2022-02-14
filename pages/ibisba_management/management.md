@@ -44,7 +44,7 @@ Currently, in the absence of a legal entity, a memorandum of understanding is be
 Regarding tarification and IPR management, these are issues under development and so the principles described are only guidelines at this stage.
   
   
-### 5. Frequently asked questions?
+### 6. Frequently asked questions?
 
 * What is the role of national nodes? 
   
