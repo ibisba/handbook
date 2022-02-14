@@ -8,6 +8,9 @@ subitems:
     url: /management.html
     output: web, pdf
     subitems:
+      - title: About IBISBA
+        url: /about.html
+        output: web, pdf
       - title: Internal Managment Process
         url: /internal_management_process.html
         output: web, pdf
