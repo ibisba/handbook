@@ -27,8 +27,6 @@ subitems:
     url: /access.html
     output: web, pdf
     subitems:
-      - title: Transnational Access
-        subitems:
           - title: Eligibility Criteria
             url: /eligibility_criteria.html
             output: web, pdf
