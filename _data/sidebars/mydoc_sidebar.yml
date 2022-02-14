@@ -28,8 +28,6 @@ subitems:
     output: web, pdf
     subitems:
       - title: Transnational Access
-        url: /tna_access.html
-        output: web, pdf
         subitems:
           - title: Eligibility Criteria
             url: /eligibility_criteria.html
