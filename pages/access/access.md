@@ -44,14 +44,16 @@ Subsidised access to IBISBA R&D services requires that users submit project prop
 
 ### 6.  Frequently asked questions
  
-Is it possible to modify the proposal after the submission?
-Yes, it is, as long as changes are applied before the submission deadline.
+* Is it possible to modify the proposal after the submission?
+  Yes, it is, as long as changes are applied before the submission deadline.
 
-Can I apply to another Open Call even though I have already been selected previously?
-Unfortunately, it is not possible to apply for another Call if the user has already got access to the infrastructure. Otherwise, one can apply as many times as they want. 
+* Can I apply to another Open Call even though I have already been selected previously?
+  Unfortunately, it is not possible to apply for another Call if the user has already got access to the infrastructure. Otherwise, one can apply as many times 
+  as they want. 
 
-Will proposals requesting multiple services be prioritised in the selection process?
-The selection process takes into account multiple aspects of the proposals, e.g. the scientific impact and the feasibility, therefore, multi-service requests are encouraged, but they are not a preferential way.
+* Will proposals requesting multiple services be prioritised in the selection process?
+  The selection process takes into account multiple aspects of the proposals, e.g. the scientific impact and the feasibility, therefore, multi-service 
+  requests  are encouraged, but they are not a preferential way.
 
 ### 7.  Related sections
 Guide for applicants. It helps users throughout the process of filling the proposal for Open Calls. 
