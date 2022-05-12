@@ -75,11 +75,11 @@ Consortium members are provided with a universal poster template, which contains
 
 A widescreen poster format has been made available for digital events for increased legibility.
 
-## Universal presentation
+## Universal presentation
 
 As per the universal poster, consortium members are provided with a 10-slide general presentation of IBISBA to draw upon relevant information or to be used in full for their pitches.
 
-## Email signature
+## Email signature
 
 An brand email signature is available in the HTML format for IBISBA members to communicate via email.
 
