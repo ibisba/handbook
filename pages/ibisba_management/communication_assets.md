@@ -30,7 +30,7 @@ The policy also protects the logo of the Consortium against misuse, in its use o
 
 All communication tools will be adapted to the policy for greater consistency.
 
-The brand and visual management policy is available on [SharePoint]((https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)
+The brand and visual management policy is available on [SharePoint](https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)
 
 ### Website
 
