@@ -43,9 +43,13 @@ Results and activities are communicated and disseminated as textual and multimed
 To follow us on social media:
 
 [LinkedIn](https://www.linkedin.com/company/ibisba/)
+
 [Twitter](https://twitter.com/ibisba_biotech)
+
 [Facebook](https://www.facebook.com/ibisbaBiotech)
+
 [Youtube](https://www.youtube.com/channel/UC1Ldlo0spPVFPSL1_ZCO1Kg)
+
 
 
 ### Newsletter
