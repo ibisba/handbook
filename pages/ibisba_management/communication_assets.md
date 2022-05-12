@@ -2,7 +2,7 @@
 title: "Communication Assets"
 tags: [management]
 # keywords: release notes, announcements, what's new, new features
-last_updated: November 23, 2021
+last_updated: May 12, 2022
 # summary: ""
 sidebar: mydoc_sidebar
 permalink: communication_assets.html
@@ -26,17 +26,17 @@ A distinctive communication style is necessary to be convincing in a “communic
 
 The policy serves this purpose by defining the IBISBA branding, the visual identity of the Consortium and the rules of use for the different elements it includes. 
 
-The policy also protects the logo of the Consortium against misuses, in its use or in its shape. The policy will be used by IBISBA members when producing any IBISBA product. It shall also be used by contractors who are entitled to deliver graphics.
+The policy also protects the logo of the Consortium against misuse, in its use or in its shape. The policy will be used by IBISBA members when producing any IBISBA product. It shall also be used by contractors who are entitled to deliver graphics.
 
 All communication tools will be adapted to the policy for greater consistency.
 
-The brand and visual management policy is available on [SharePoint](https://idp.inra.fr/cas/loginservice=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser).
+The brand and visual management policy is available on [SharePoint]((https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)
 
 ### Website
 
 The official website (www.ibisba.eu) is the main portal to get all the information related to IBISBA, including general info, activities, events, objectives, open calls, workshop and webinars.
 
-Social media and sharing platforms
+### Social media and sharing platforms
 
 Results and activities are communicated and disseminated as textual and multimedia content through the main B2B social media platforms, including LinkedIn and Twitter, and on Facebook for the general public. Video content, including recorded interviews, webinars and workshops, is hosted on a dedicated YouTube channel.
 
@@ -59,7 +59,7 @@ Periodic info updates can be received by [subscribing](https://www.ibisba.eu/New
 
 ### Communication tools
 
-Communication tools are stored on [SharePoint]((https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)).
+Communication tools are stored on [SharePoint](https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)
 
 **PowerPoint Templates**
 
