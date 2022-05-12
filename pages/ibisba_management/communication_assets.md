@@ -61,7 +61,7 @@ Periodic info updates can be received by [subscribing](https://www.ibisba.eu/New
 
 Communication tools are stored on [SharePoint]((https://idp.inra.fr/cas/login?service=https%3A%2F%2Fidp.inra.fr%2Fidp%2FAuthn%2FRemoteUser)).
 
-## PowerPoint slide deck templates
+**PowerPoint Templates**
 
 Presentations must be delivered by using the IBISBA official template, which contains a title slide, a body layout, a disclaimer, and a graphic charter that will help build the presentation maintaining IBISBA’s visual identity.
 
@@ -69,17 +69,17 @@ Font type, size, colour, and all the other visual elements must not be changed. 
 
 Widescreen and standard templates can be found on IBISBA 1.0 SharePoint and PRE-IBISBA SharePoint.
 
-## Universal poster
+**Universal Poster**
 
 Consortium members are provided with a universal poster template, which contains a general introduction to IBISBA and can be used in international conferences. Alternatively, consortium members can build their own posters by respecting the brand guidelines relative to logo, typeface, colour palette, and funding statement, as described in the brand and visual identity management policy.
 
 A widescreen poster format has been made available for digital events for increased legibility.
 
-## Universal presentation
+**Universal Presentation**
 
 As per the universal poster, consortium members are provided with a 10-slide general presentation of IBISBA to draw upon relevant information or to be used in full for their pitches.
 
-## Email signature
+**Email Signature**
 
 An brand email signature is available in the HTML format for IBISBA members to communicate via email.
 
