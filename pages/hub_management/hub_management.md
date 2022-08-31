@@ -25,7 +25,7 @@ You will also learn the alternative way to populate your project using the IBISB
 
 Apart from assigning or populating data to your project you will also learn to independently upload your data, workflows, data, SOPs, publication or any relevant documentation for the project. 
 
-### 4. Topics Inculded
+### 4. Topics Included
 
 - [Introduction to Hub](https://ibisba.github.io/handbook/hub_introduction.html)
 - [Account creation](https://ibisba.github.io/handbook/hub_account_creation.html)
