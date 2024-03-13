@@ -1,5 +1,5 @@
 ---
-title: "TNAs and the IBISBAHub"
+title: "TNAs and the IBISBAKHub"
 tags: [access]
 # keywords:
 last_updated: November 26, 2020
@@ -12,7 +12,7 @@ contributors: ["Munazah Andrabi , Alan Williams"]
 
 
 
-### Initial Information Required by the Hub
+### Initial Information Required by the IBISBAKHub
 
 Initial information should be added / checked by the infrastructures associated with each project. This information includes:
 
@@ -38,7 +38,7 @@ The customer may be given some access rights, but this can be determined later.
 ### Initial Organisation Steps
 
 * An IBISBA person should be defined as the contact for the project.
-* An IBISBAHub representative should be identified for the project.
+* An IBISBAKHub representative should be identified for the project.
 * People should be specified as contacts for each infrastructure.
 * The customer contact should be identified.
 
@@ -46,14 +46,14 @@ The contact details should be specified in a free text document called contacts 
 
 ### Process Steps
 
-* Meeting of Hub representative with all the Facility Operators (FO) involved in the project
+* Meeting of IBISBAKHub representative with all the Facility Operators (FO) involved in the project
   The meetings will be minuted
 * Project steps to be decided by the FO together with the clients
   The project steps will be documented in a spreadsheet
   The project steps will specify, / reference the protocol - which includes the inputs and outputs
 
 ### What Exactly Will the TNAs Provide to the Hub? 
-* Data/information is added to the HUB while the project is ongoing. This involves the Hub representative
+* Data/information is added to the IBISBAKHub while the project is ongoing. This involves the IBISBAKHub representative
 * Data can include:
    * Protocols
    * Experimental Inputs and Outputs
@@ -64,5 +64,5 @@ The contact details should be specified in a free text document called contacts 
 * The data should specify if it is an input or an output of the step.
 * The final reports should be specified as documents and associated with the project.
 
-### What Hub Structure will the Information be Incorporated to 
-* Project structure to be decided by the Facility Operator in conjunction with the Hub representative
+### What IBISBAKHub Structure will the Information be Incorporated to 
+* Project structure to be decided by the Facility Operator in conjunction with the IBISBAKHub representative
