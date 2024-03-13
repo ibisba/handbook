@@ -1,5 +1,5 @@
 ---
-title: "IBISBAHub"
+title: "IBISBAKHub"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -12,13 +12,13 @@ contributors: ["Munazah Andrabi"]
 ---
 
 ### 1. Who is this section meant for?
-This section is meant for a facility manager or a user/researcher to understand the overall project workflow and project management via the use of IBISBAHub.
+This section is meant for a facility manager or a user/researcher to understand the overall project workflow and project management via the use of IBISBAKHub.
  
 ### 2. How will this section help the reader?
-This section of the handbook will provide stepwise instruction about how to use the IBISBAHub for end-to-end project and data management.
+This section of the handbook will provide stepwise instruction about how to use the IBISBAKHub for end-to-end project and data management.
  
 ### 3. What is the learning outcome of this section?
-After reading through this section you will be able to register and create an account on the IBISBAHub. 
+After reading through this section you will be able to register and create an account on the IBISBAKHub. 
 Once the account is created you will then learn to register/create a project with stepwise instructions. Finally, you will learn how to populate your registered project and create the investigation, study and assay sections one by one using the manual procedure. 
  
 You will also learn the alternative way to populate your project using the IBISBA Populator (iPop). This is useful, when at the beginning of your project you already have some level of planned workflow. For e.g. you might know the investigations to be carried out, what level and kind of studies are to be done and which assays/experiments will be required to do the study. iPop will make the creation of the Investigation, Study and Assay (ISA) structure more efficient.
