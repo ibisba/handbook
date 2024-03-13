@@ -13,7 +13,7 @@ contributors: ["Munazah Andrabi , Jasper Koehorst"]
 
 ## [IBISBAKHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
 
-### The IBISBKAHub is the Place to Share Scientific Information Related to the IBISBA 1.0 Project. 
+### The IBISBAKHub is the Place to Share Scientific Information Related to the IBISBA 1.0 Project. 
 
 It serves as an online portal for:
 
