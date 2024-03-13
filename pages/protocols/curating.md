@@ -40,7 +40,7 @@ Give the curator the rights for ¨edit¨ and ¨manage¨
 
 ### Protocol Curators
 
-Each organisation within the IBISBA consortium has assigned a Protocol Curator. Curators are experts in different steps of the DBTL cycle and are responsible for the quality of the protocols uploaded in IBISBAhub. 
+Each organisation within the IBISBA consortium has assigned a Protocol Curator. Curators are experts in different steps of the DBTL cycle and are responsible for the quality of the protocols uploaded in IBISBAKHub. 
 
 Uploading a curated protocol as a new version (only for curators)
 
