@@ -15,8 +15,8 @@ contributors: ["Munazah Andrabi"]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iTir1WfohN8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-After the TNA has been accepted it needs to be registered in the IBISBA Hub.
-In the hub all procedures, datasets and protocols can be registered and used as an internal resource for your project management.
+After the TNA has been accepted it needs to be registered in the IBISBAKHub.
+In the IBISBAKHub all procedures, datasets and protocols can be registered and used as an internal resource for your project management.
 
 ### Step 1:
 
