@@ -12,7 +12,7 @@ contributors: ["Jasper Koehorst"]
 
 ## Security/Privacy
 
-IBISBAHub has been designed in such a way that it provides complete control over access to the Data, Projects and the ISA structure. You may choose to keep your Project/Data completely private or public or even choose an intermediate level of access. Access control may be specified for
+IBISBAKHub has been designed in such a way that it provides complete control over access to the Data, Projects and the ISA structure. You may choose to keep your Project/Data completely private or public or even choose an intermediate level of access. Access control may be specified for
 
 - Members of a project
 - Members of an institution
@@ -27,4 +27,4 @@ So, for example, in a TNA,
 
 ## Licensing
 
-The IBISBAHub strives to have all data in conformity with the FAIR principles.All data and knowledge in the hub can and will remain private until the user makes it online or embargo is reached (end of ibisba 1.0 contract period). Data within IBISBAHub would  ideally be  stored under the Creative Common 0  (CC0) license to make it available for the wider scientific community. However a list of other possible Licenses are available to the user from a drop down menu on the project registration page.
+The IBISBAKHub strives to have all data in conformity with the FAIR principles.All data and knowledge in the IBISBAKHub can and will remain private until the user makes it online or embargo is reached (end of ibisba 1.0 contract period). Data within IBISBAKHub would  ideally be  stored under the Creative Common 0  (CC0) license to make it available for the wider scientific community. However a list of other possible Licenses are available to the user from a drop down menu on the project registration page.
