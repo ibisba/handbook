@@ -12,7 +12,7 @@ contributors: ["Munazah Andrabi"]
 ---
 
 ### 1. Who is this section meant for?
-This section is meant for a facility manager or a user/researcher to understand the overall project workflow and project management via the use of IBISBAKHub.
+This section is meant for a facility manager or a user/researcher to understand the overall project workflow and project management via the use of IBISBA Knowledge Hub (IBISBAKHub).
  
 ### 2. How will this section help the reader?
 This section of the handbook will provide stepwise instruction about how to use the IBISBAKHub for end-to-end project and data management.
@@ -27,7 +27,7 @@ Apart from assigning or populating data to your project you will also learn to i
 
 ### 4. Topics Inculded
 
-- [Introduction to Hub](https://ibisba.github.io/handbook/hub_introduction.html)
+- [Introduction to IBISBAKHub](https://ibisba.github.io/handbook/hub_introduction.html)
 - [Account creation](https://ibisba.github.io/handbook/hub_account_creation.html)
 - [Project registration](https://ibisba.github.io/handbook/hub_project_registration.html)
 - [Project population](https://ibisba.github.io/handbook/hub_project_population.html)
