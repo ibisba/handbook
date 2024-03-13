@@ -8,7 +8,7 @@ permalink: index.html
 summary: This is an IBISBA information resource in which you can find documentation related to a wide variety of aspects within IBISBA.
 ---
 
-This is the IBISBA Handbook, a public information source for existing and new members of the IBISBA Enterprise. The Handbook contains practical instructions on how to operate IBISBA resources such as the IBISBA-Hub once the implementations and procedures are sufficiently stable for public dissemination. The Handbook also contains various guidelines <I>e.g.</I> for protocol writing and curation.
+This is the IBISBA Handbook, a public information source for existing and new members of the IBISBA Enterprise. The Handbook contains practical instructions on how to operate IBISBA resources such as the IBISBAKHub once the implementations and procedures are sufficiently stable for public dissemination. The Handbook also contains various guidelines <I>e.g.</I> for protocol writing and curation.
 
 This handbook contains general guidelines and practical how-to instructions, including instructional videos, related to the different parts of the project life cycle and supporting sections for harmonization/standardization including <a href="https://ibisba.github.io/handbook/terminology.html">terminology</a>, protocols/metaprotocols, and workflows including automated computational workflows.
 
