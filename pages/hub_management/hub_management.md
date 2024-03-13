@@ -36,5 +36,5 @@ Apart from assigning or populating data to your project you will also learn to i
 - [Publication](https://ibisba.github.io/handbook/publications.html)
 
 ### 5. Summary/Next Steps
-We hope reading through this section has given you enough information to get yourself an account on the IBISBAHub and get started with creating your project and uploading/registering your data and other relevant documents.
+We hope reading through this section has given you enough information to get yourself an account on the IBISBAKHub and get started with creating your project and uploading/registering your data and other relevant documents.
  
