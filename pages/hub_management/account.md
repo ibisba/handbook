@@ -13,7 +13,7 @@ contributors: ["Munazah Andrabi , Jasper Koehorst"]
 
 ### Registration
 
-Register to the IBISBAHub [https://hub.ibisba.eu]()
+Register to the IBISBAKHub [https://hub.ibisba.eu]()
 
 {% include image.html file="/Signup.png" alt="Jekyll" caption="" %}
 
