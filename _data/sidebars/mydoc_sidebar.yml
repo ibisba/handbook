@@ -45,18 +45,18 @@ subitems:
       - title: Post Access Requirements
         url: /postaccess_requirements.html
         output: web, pdf
-      - title: TNAs and IBISBAHub
+      - title: TNAs and IBISBAKHub
         url: /tnas_hub.html
         output: web, pdf
       - title: One Stop Shop
         url: /one_stop_shop.html
         output: web, pdf
         
-  - title: IBISBAHub 
+  - title: IBISBAKHub 
     url: /hub_management.html
     output: web, pdf
     subitems:
-      - title: Introduction to the Hub
+      - title: Introduction to the IBISBAKHub
         url: /hub_introduction.html
         output: web, pdf
       - title: Account Creation
