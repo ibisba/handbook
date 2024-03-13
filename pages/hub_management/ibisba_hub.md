@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the Hub"
+title: "Introduction to the IBISBAKHub"
 tags: [hub]
 # keywords: release notes, announcements, what's new, new features
 last_updated: September 24, 2020
@@ -11,9 +11,9 @@ toc: false
 contributors: ["Munazah Andrabi , Jasper Koehorst"]
 ---
 
-## [IBISBAHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
+## [IBISBAKHub](https://hub.ibisba.eu) is a key part of the IBISBA ecosystem of facilities  
 
-### The IBISBAHub is the Place to Share Scientific Information Related to the IBISBA 1.0 Project. 
+### The IBISBKAHub is the Place to Share Scientific Information Related to the IBISBA 1.0 Project. 
 
 It serves as an online portal for:
 
@@ -28,7 +28,7 @@ It serves as an online portal for:
 
 [https://hub.ibisba.eu](https://hub.ibisba.eu/)
 
-### Project Structure on IBISBAHub (ISA Structure):
+### Project Structure on IBISBAKHub (ISA Structure):
 
 The projects are structured and stored on the IBISBAHub around the ISA framework:
 
