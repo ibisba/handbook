@@ -16,7 +16,7 @@ contributors: []
 
 **Scope of IBISBA Protocols**
 
-Each IBISBA protocol should cover a single Task. Before starting to write an IBISBA protocol, you should first identify which Task in the IBISBA Task Curation system would be covered by the protocol. If no such Task can be identified, a new Task must be added to the Task Curation system. Protocols covering multiple Tasks should be divided into several smaller protocols to make them IBISBA-compatible. For example, if a protocol covers both: 1) preparation of electrocompetent cells and 2) transformation of electrocompetent cells, it should be divided into two protocols (i.e. “Preparation of electrocompetent cells” and “Transformation of electrocompetent cells”). If a protocol that covers multiple Tasks or a single Task only partially has been uploaded, the Main Protocol Curator will contact the Protocol Curator of the responsible organization. If two protocols for the same Task have been uploaded to the IBISBA Hub, the Main Curator will make the decision which protocol will be left in the IBISBA Hub and which protocol will be removed.
+Each IBISBA protocol should cover a single Task. Before starting to write an IBISBA protocol, you should first identify which Task in the IBISBA Task Curation system would be covered by the protocol. If no such Task can be identified, a new Task must be added to the Task Curation system. Protocols covering multiple Tasks should be divided into several smaller protocols to make them IBISBA-compatible. For example, if a protocol covers both: 1) preparation of electrocompetent cells and 2) transformation of electrocompetent cells, it should be divided into two protocols (i.e. “Preparation of electrocompetent cells” and “Transformation of electrocompetent cells”). If a protocol that covers multiple Tasks or a single Task only partially has been uploaded, the Main Protocol Curator will contact the Protocol Curator of the responsible organization. If two protocols for the same Task have been uploaded to the IBISBAKHub, the Main Curator will make the decision which protocol will be left in the IBISBAKHub and which protocol will be removed.
 
 **Input, Output and Critical Points**
 
@@ -28,7 +28,7 @@ Each protocol contains important steps that need to be carried out in a specific
 
 **When to Write a New IBISBA Protocol or Update an Existing One**
 
-Before starting to write a new IBISBA protocol you should check from the IBISBA Hub whether it already contains a protocol for the Task in question. If the IBISBA Hub contains such a protocol, you should review it for critical points and consider whether it can be used in your project. If the existing protocol differs too much with respect to its critical points, i.e. the output cannot be obtained or the quality of the output is compromised, a new protocol shall be written. If changes are made to an existing protocol without affecting the critical points, then a new version of the protocol has to be generated.
+Before starting to write a new IBISBA protocol you should check from the IBISBAKHub whether it already contains a protocol for the Task in question. If the IBISBAKHub contains such a protocol, you should review it for critical points and consider whether it can be used in your project. If the existing protocol differs too much with respect to its critical points, i.e. the output cannot be obtained or the quality of the output is compromised, a new protocol shall be written. If changes are made to an existing protocol without affecting the critical points, then a new version of the protocol has to be generated.
 
 
 ### Structure of IBISBA Protocols
@@ -41,7 +41,7 @@ The title, version number, contact person name and affiliation, and date shall b
 
 **1.1.	Descriptive Title**
 
-A descriptive title without ambiguous or rare abbreviations shall distinguish this protocol from all other potential protocols in a protocol database. If the protocol is closely related to another protocol already uploaded to the IBISBA Hub, it should be obvious from the title how they differ.
+A descriptive title without ambiguous or rare abbreviations shall distinguish this protocol from all other potential protocols in a protocol database. If the protocol is closely related to another protocol already uploaded to the IBISBAKHub, it should be obvious from the title how they differ.
 
 Tip: Bad example: ‘Maxwell 16LEV simply RNA kit’. Good example: ‘RNA isolation from tissue samples using the Maxwell instrument’).
 
